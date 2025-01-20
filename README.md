@@ -30,7 +30,7 @@ see our live bot kn telegram to check the features [Advance Content Saver Bot](h
 - fast uploader via `SpyLib` using Telethon modules and `mautrix bridge repo`
 
 ## ⚡ Commands
-
+```
 - **`start`**: 🚀 Start the bot.
 - **`batch`**: 🫠 Extract in bulk.
 - **`login`**: 🔑 Get into the bot.
@@ -54,6 +54,7 @@ see our live bot kn telegram to check the features [Advance Content Saver Bot](h
 - **`help`**: ❓ Help if you're new.
 - **`cancel`**: 🚫 Cancel batch process.
 
+```
 
 ## ⚙️ Required Variables
 
