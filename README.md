@@ -31,9 +31,9 @@ see our live bot kn telegram to check the features [Advance Content Saver Bot](h
 
 ## ⚡ Commands
 ```
-start -🚀 Start the bot.
-batch -🫠 Extract in bulk.
-login -🔑 Get into the bot.
+start - 🚀 Start the bot.
+batch - 🫠 Extract in bulk.
+login - 🔑 Get into the bot.
 logout -🚪 Get out of the bot.
 token - 🎲 Get 3 hours of free access.
 adl - 👻 Download audio from 30+ sites.
