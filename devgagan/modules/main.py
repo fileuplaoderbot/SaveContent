@@ -307,7 +307,7 @@ async def batch_link(_, message):
             await set_interval(user_id, interval_minutes=20)
             await app.send_message(message.chat.id, "Batch completed successfully! 🎉")
             await pin_msg.edit_text(
-                        f"Batch process completed for {cl} messages enjoy 🌝\n\n**__Powered by Team SPY__**",
+                        f"Batch process completed for {cl} messages enjoy 🌝\n\n**__Powered by Shinchan Dubber__**",
                         reply_markup=keyboard
             )
             return
