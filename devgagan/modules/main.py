@@ -114,7 +114,7 @@ async def single_link(_, message):
             if data and data.get("session"):
                 session = data.get("session")
                 try:
-                    device = 'Vivo Y20'
+                    device = 'Save Content'
                     userbot = Client(
                         ":userbot:",
                         api_id=API_ID,
@@ -138,7 +138,7 @@ async def single_link(_, message):
         if data and data.get("session"):
             session = data.get("session")
             try:
-                device = 'Vivo Y20'
+                device = 'Save Content'
                 userbot = Client(":userbot:", api_id=API_ID, api_hash=API_HASH, device_model=device, session_string=session)
                 await userbot.start()                
             except:
