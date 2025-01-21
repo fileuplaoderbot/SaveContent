@@ -2,10 +2,10 @@
   Winter Release V3
 </h1>
 
-[Telegram](https://t.me/save_restricted_content_bots) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
+[Group Bot](https://telegram.me/ShinchanDubberChat) | [See Recent Updates](https://telegram.me/ShinchanDubber)
 
 ### Star the repo it motivate us to update new features
-see our live bot kn telegram to check the features [Advance Content Saver Bot](https://t.me/advance_content_saver_bot)
+see our live bot kn telegram to check the features [Advance Content Saver Bot](https://telegram.me/SaveContentRestrictedRobot)
 
 ## 📚 About This Branch
 - This branch is based on `Pyrogram V2` offering enhanced stability and a forced login feature. User are not forced to login in bot for public channels but for public groups and private channel they have to do login.
@@ -72,7 +72,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
 - **`MONGO_DB`**: A MongoDB URL for storing session data (recommended for security).
   
 ### Additional Configuration Options:
-- **`STRING`**: (Optional) Add your **premium account session string** here to allow 4GB file uploads. This is **optional** and can be left empty if not used.
+- **`STRING`**: (Optional) Add your **premium account session string** here to allow 4GB file uploads. This is **optional** and can be left empty if not used. Use [String Father](https://telegram.me/TGStringGeneratorRobot) For Finding String Session
 - **`FREEMIUM_LIMIT`**: Default is `0`. Set this to any value you want to allow free users to extract content. If set to `0`, free users will not have access to any extraction features.
 - **`PREMIUM_LIMIT`**: Default is `500`. This is the batch limit for premium users. You can customize this to allow premium users to process more links/files in one batch.
 - **`YT_COOKIES`**: Yt cookies for downloading yt videos 
@@ -326,12 +326,12 @@ Your credentials can be stolen if pushed to a public repository. Always keep the
 ---
 ## 🛠️ Terms of Use
 
-Visit the [Terms of Use](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/master/TERMS_OF_USE.md) page to review and accept the guidelines.
+Visit the [Terms of Use](https://github.com/fileuplaoderbot/SaveContent/TERMS_OF_USE.md) page to review and accept the guidelines.
 ## Important Note
 
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ### Special thanks to:
-- [King of Patal](https://github.com/alreadydea) for base development of this repository.
-- [Mautrix Bridge](https://github.com/mautrix/telegram) for fast uploader connectivity bridge.
+- [Movie Horn](https://github.com/fileuplaoderbot) for base development of this repository.
+- [Koisiman](https://telegram.me/mhowner) for fast uploader connectivity bridge.
 
